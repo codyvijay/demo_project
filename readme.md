@@ -1,1 +1,0 @@
-This project is a simple hello world project.
